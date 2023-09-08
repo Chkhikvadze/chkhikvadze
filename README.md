@@ -13,7 +13,7 @@ I'm deeply committed to empowering technical teams, equipping them with insights
  - 🖥️ Hacking: Producing top-tier, production-ready code.
  - 🚀 Innovation: Propelling existing products into the future.
 
-#### 🌍 ( Connect with Me!
+#### 🌍 Connect with Me!
 
 Whether you're looking to collaborate or simply discuss the latest in tech, I'm always open for an engaging tech conversation!
 
@@ -23,7 +23,7 @@ Whether you're looking to collaborate or simply discuss the latest in tech, I'm 
 [![Linkedin: Giga Chkhikvadze](https://img.shields.io/badge/-chkhikvadze-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gigachkhikvadze)](https://www.linkedin.com/in/gigachkhikvadze/)
 
 
-#### 💌 How you can reach me:
+#### ✉️ How you can reach me:
 
 [![Mail](https://img.shields.io/badge/-Schedule%20a%20call!-black?style=for-the-badge&logo=phone)](https://booking.akiflow.com/l3vels-5f78)
 [![Mail](https://img.shields.io/badge/-Email%20me!-black?style=for-the-badge&logo=gmail)](mailto:giga.chkhikvadze@gmail.com)
