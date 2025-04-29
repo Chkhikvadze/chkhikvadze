@@ -1,5 +1,5 @@
 
-### Software Architect | AI Engineer | Enthusiast 
+### Entrepreneur | CTO | Software Architect | AI Engineer | Enthusiast 
 
 In my extensive journey spanning numerous tech products, my passion for high-tech innovations and crafting comprehensive software development processes has been the driving force. This journey has seen me not only initiate and manage projects but also achieve three successful exits.
 
