@@ -25,7 +25,7 @@ Whether you're looking to collaborate or simply discuss the latest in tech, I'm 
 
 #### ✉️ How you can reach me:
 
-[![Mail](https://img.shields.io/badge/-Schedule%20a%20call!-black?style=for-the-badge&logo=phone)](https://booking.akiflow.com/l3vels-5f78)
+# [![Mail](https://img.shields.io/badge/-Schedule%20a%20call!-black?style=for-the-badge&logo=phone)](https://booking.akiflow.com/l3vels-5f78)
 [![Mail](https://img.shields.io/badge/-Email%20me!-black?style=for-the-badge&logo=gmail)](mailto:giga.chkhikvadze@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/gigch_eth)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/gigachkhikvadze//)
