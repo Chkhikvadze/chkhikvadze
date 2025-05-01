@@ -30,7 +30,7 @@ Whether you're looking to collaborate or simply discuss the latest in tech, I'm 
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/gigch_eth)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/gigachkhikvadze//)
 [![ProductHunt](https://img.shields.io/badge/-Producthunt-black?style=for-the-badge&logo=product-hunt)](https://www.producthunt.com/@giga_chkhikvadze1)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/gigch.eth//)
+[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/gigch.eth/)
 
 
 
